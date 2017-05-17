@@ -1,4 +1,4 @@
-package day.pkg0;
+//For a description of the task, see: https://www.hackerrank.com/challenges/30-hello-world
 
 import java.util.Scanner;
 
