@@ -1,5 +1,4 @@
-
-package day02;
+//For a description of the task, see https://www.hackerrank.com/challenges/30-operators
 
 import java.util.*;
 import java.math.*;
