@@ -1,5 +1,4 @@
-
-package day08;
+//For a description of the task, see https://www.hackerrank.com/challenges/30-dictionaries-and-maps
 
 import java.util.*;
 import java.io.*;
