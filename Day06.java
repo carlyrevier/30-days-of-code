@@ -1,4 +1,4 @@
-package day06;
+//For a description of the task, see https://www.hackerrank.com/challenges/30-review-loop
 
 import java.io.*;
 import java.util.*;
