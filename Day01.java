@@ -1,4 +1,6 @@
 
+//For instructions, see https://www.hackerrank.com/challenges/30-data-types
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
