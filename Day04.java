@@ -1,4 +1,4 @@
-package day04;
+//For a description of the task, see https://www.hackerrank.com/challenges/30-class-vs-instance
 
 public class Person {
     private int age;	
