@@ -1,13 +1,11 @@
 
-package day1;
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Day1 {
+public class Solution {
 
     public static void main(String[] args) {
         int i = 4;
