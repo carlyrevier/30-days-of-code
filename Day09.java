@@ -1,4 +1,4 @@
-package day09;
+//For a description of the task, see https://www.hackerrank.com/challenges/30-recursion
 
 import java.io.*;
 import java.util.*;
