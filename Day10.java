@@ -1,4 +1,6 @@
-package day10;
+//For a description of the task, see https://www.hackerrank.com/challenges/30-binary-numbers
+//This challenge was especially difficult for me. Admittedly, I had to do some Google (and soul) searching to
+//finally ascertain an answer. Such is the way of the baby coder.
 
 import java.io.*;
 import java.util.*;
